@@ -1,4 +1,5 @@
 # Calculadora JavaScript
+Essa Calculadora foi criada seguindo os passos do curso de Javascript descrito abaixo, gostei muito do projeto e foi muito instrutivo ir seguindo passo a passo e vendo na pratica os recursos do JS
 
 [![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
 
